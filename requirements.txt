@@ -1,9 +1,10 @@
+conda==4.3.16
 Flask==2.1.2
 gunicorn==20.1.0
+opencv-python-headless==4.2.0.32
 keras==2.9.0
 Keras-Preprocessing==1.1.2
 notebook==6.4.11
 numpy==1.22.4
 pandas==1.4.2
 tensorflow-cpu==2.9.1
-opencv-python-headless<4.5.2.52
