@@ -6,4 +6,4 @@ notebook==6.4.11
 numpy==1.22.4
 pandas==1.4.2
 tensorflow-cpu==2.9.1
-opencv-python-headless==4.5.2.52
+opencv-python-headless<4.5.2.52
